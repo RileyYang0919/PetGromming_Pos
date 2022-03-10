@@ -1,0 +1,16 @@
+C:\Users\Riley\OneDrive\桌面\期中專題\PetGrooming_Pos\PetGrooming_Pos\bin\Debug\PetGrooming_Pos.exe.config
+C:\Users\Riley\OneDrive\桌面\期中專題\PetGrooming_Pos\PetGrooming_Pos\bin\Debug\PetGrooming_Pos.exe
+C:\Users\Riley\OneDrive\桌面\期中專題\PetGrooming_Pos\PetGrooming_Pos\bin\Debug\PetGrooming_Pos.pdb
+C:\Users\Riley\OneDrive\桌面\期中專題\PetGrooming_Pos\PetGrooming_Pos\obj\Debug\PetGrooming_Pos.csproj.AssemblyReference.cache
+C:\Users\Riley\OneDrive\桌面\期中專題\PetGrooming_Pos\PetGrooming_Pos\obj\Debug\PetGrooming_Pos.Properties.Resources.resources
+C:\Users\Riley\OneDrive\桌面\期中專題\PetGrooming_Pos\PetGrooming_Pos\obj\Debug\PetGrooming_Pos.csproj.GenerateResource.cache
+C:\Users\Riley\OneDrive\桌面\期中專題\PetGrooming_Pos\PetGrooming_Pos\obj\Debug\PetGrooming_Pos.csproj.CoreCompileInputs.cache
+C:\Users\Riley\OneDrive\桌面\期中專題\PetGrooming_Pos\PetGrooming_Pos\obj\Debug\PetGrooming_Pos.exe
+C:\Users\Riley\OneDrive\桌面\期中專題\PetGrooming_Pos\PetGrooming_Pos\obj\Debug\PetGrooming_Pos.pdb
+C:\Users\Riley\OneDrive\桌面\期中專題\PetGrooming_Pos\PetGrooming_Pos\obj\Debug\PetGrooming_Pos.Frm_Home.resources
+C:\Users\Riley\OneDrive\桌面\期中專題\PetGrooming_Pos\PetGrooming_Pos\obj\Debug\PetGrooming_Pos.Frm_member.resources
+C:\Users\Riley\OneDrive\桌面\期中專題\PetGrooming_Pos\PetGrooming_Pos\obj\Debug\PetGrooming_Pos.Frm_ALLMember.resources
+C:\Users\Riley\OneDrive\桌面\期中專題\PetGrooming_Pos\PetGrooming_Pos\obj\Debug\PetGrooming_Pos.Frm_單次美容.resources
+C:\Users\Riley\OneDrive\桌面\期中專題\PetGrooming_Pos\PetGrooming_Pos\obj\Debug\PetGrooming_Pos.Frm_付款方式.resources
+C:\Users\Riley\OneDrive\桌面\期中專題\PetGrooming_Pos\PetGrooming_Pos\obj\Debug\PetGrooming_Pos.Frm_服務設定.resources
+C:\Users\Riley\OneDrive\桌面\期中專題\PetGrooming_Pos\PetGrooming_Pos\obj\Debug\PetGrooming_Pos.csproj.SuggestedBindingRedirects.cache
